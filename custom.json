@@ -1,8 +1,8 @@
 {
     "room": "Brazil-Lounge-Exclusive",
-    "author": "Wawel",
+    "author": "Equipe Blex",
     "icon": null,
-    "css": "https://raw.githack.com/DavidStefansky/Brazil-Lounge-Exclusive/master/BrazilLExc2.6.css",
+    "css": "https://raw.githack.com/brazilex/css/master/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
