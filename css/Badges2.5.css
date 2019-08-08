@@ -1,0 +1,114 @@
+/* ajusta a foto, tira a borda cinza e deixa maior */
+#chat .badge-box i, .right-side-wrapper #chat .badge-box .icon-arrow-down {
+    transform: scale(1) !important;}
+
+/* Lampião */
+[data-cid^="20574971-"] .badge-box .bdg,
+#user-rollover.id-20574971 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://imgur.com/Gp1zH1c.png");
+}
+/* -Death Gun */
+[data-cid^="27880115-"] .badge-box .bdg,
+#user-rollover.id-27880115 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://rcs.radiant.dj/img/plugdj/badges/bdg-warriorb-e02.png");
+}
+/* Neon Genesis Evangelion */
+[data-cid^="25482766-"] .badge-box .bdg,
+#user-rollover.id-25482766 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.discordapp.net/attachments/598251726352547860/598278023715880975/LJteYjG.gif");
+}
+/* Neffesh */
+[data-cid^="6507798-"] .badge-box .bdg,
+#user-rollover.id-6507798 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.discordapp.net/attachments/598252003893706763/598258456579014688/Pixel1562706186059.gif");
+}
+/* fløwer vulgo Mariana */
+[data-cid^="29551770-"] .badge-box .bdg,
+#user-rollover.id-29551770 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.giphy.com/media/xT9IgjHkJczyL3Ujle/giphy.gif");
+}
+
+
+/* BGchat */
+.cm.message.deletable.id-3998944::before,
+.cm.message.id-3998944::before {
+	background-image: url(https://i.imgur.com/jvCd8X4.jpg);	/* !Special Agent Frost BGchat*/
+	background-repeat: no-repeat;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: .2;
+	z-index: -1;
+	background-position-y: -10px;
+	background-position-x: right;
+}
+#chat [data-cid^="3998944-"] .from {
+	background: linear-gradient(to right, rgba(0, 0, 0,.12), transparent);
+	padding: 7px;
+	border-radius: 15px;
+}
+
+.cm.message.deletable.id-4208767::before,
+.cm.message.id-4208767::before {
+	background-image: url(https://media.discordapp.net/attachments/595780880153182218/598307124082245645/1530466_640502206009849_1901221418_n.jpg);	/* Al CaponeRJ BGchat*/
+	background-repeat: no-repeat;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: .2;
+	z-index: -1;
+	background-position-y: -10px;
+	background-position-x: right;
+}
+#chat [data-cid^="4208767-"] .from {
+	background: linear-gradient(to right, rgba(0, 0, 0,.12), transparent);
+	padding: 7px;
+	border-radius: 15px;
+}
+
+.cm.message.deletable.id-20574971::before,
+.cm.message.id-20574971::before {
+	background-image: url(https://78.media.tumblr.com/8c811ed7a14c6ee7878624a8dc0bfbec/tumblr_orvni34KDJ1r7sijxo1_500.gif);	/* Lampião BGchat */
+	background-repeat: no-repeat;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: .2;
+	z-index: -1;
+	background-position-y: -10px;
+	background-position-x: right;
+}
+#chat [data-cid^="20574971-"] .from {
+	background: linear-gradient(to right, rgba(0, 0, 0,.12), transparent);
+	padding: 7px;
+	border-radius: 15px;
+}

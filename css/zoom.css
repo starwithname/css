@@ -1,0 +1,119 @@
+/* Zoom Emblema - ID*/ 
+#chat-messages .id-20574971 .badge-box:hover ,
+#chat-messages .id-27880115 .badge-box:hover ,
+#chat-messages .id-29551770 .badge-box:hover ,
+#chat-messages .id-6507798 .badge-box:hover ,
+#chat-messages .id-25482766 .badge-box:hover ,
+#chat-messages .id-16681992 .badge-box:hover{ 
+	width: 65px; 
+	height: 65px; 
+	transition: 0.5s;  
+}
+
+/* Burkyst */ 
+#chat-messages .id-20574971 .badge-box i.bdg, .id-20574971 .no-badge i { 
+	background-image: url(https://imgur.com/Gp1zH1c.png); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
+
+/* Outsider */
+#chat-messages .id-16681992 .badge-box i.bdg, .id-16681992 .no-badge i { 
+	background-image: url(https://rcs.radiant.dj/img/plugdj/badges/bdg-dragon02.png); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
+
+/* -Death Gun */
+#chat-messages .id-27880115 .badge-box i.bdg, .id-27880115 .no-badge i { 
+	background-image: url(https://rcs.radiant.dj/img/plugdj/badges/bdg-warriorb-e02.png); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
+
+/* fløwer vulgo Mariana */ 
+#chat-messages .id-29551770 .badge-box i.bdg, .id-29551770 .no-badge i { 
+	background-image: url(https://media.giphy.com/media/xT9IgjHkJczyL3Ujle/giphy.gif); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
+
+/* Neffesh */ 
+#chat-messages .id-6507798 .badge-box i.bdg, .id-6507798 .no-badge i { 
+	background-image: url(https://media.discordapp.net/attachments/598252003893706763/598258456579014688/Pixel1562706186059.gif); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
+
+/* Neon Genesis Evangelion */ 
+#chat-messages .id-25482766 .badge-box i.bdg, .id-25482766 .no-badge i { 
+	background-image: url(https://media.discordapp.net/attachments/598251726352547860/598278023715880975/LJteYjG.gif); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
