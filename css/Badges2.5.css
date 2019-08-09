@@ -38,14 +38,14 @@
     background-position: center;
     background-image: url("https://media.discordapp.net/attachments/598252003893706763/598258456579014688/Pixel1562706186059.gif");
 }
-/* fløwer vulgo Mariana */
+/* BlexBot */
 [data-cid^="29551770-"] .badge-box .bdg,
 #user-rollover.id-29551770 .badge-box .bdg {
     border-radius: 5px;
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-image: url("https://media.giphy.com/media/xT9IgjHkJczyL3Ujle/giphy.gif");
+    background-image: url("https://raw.githack.com/brazilex/css/master/images/bdg-blexbot.png");
 }
 
 
