@@ -56,7 +56,15 @@
     background-position: center;
     background-image: url("https://cdn.discordapp.com/attachments/605043899156791307/609422171068170260/Yugioh_3.gif");
 }
-
+/* Denovuan */
+[data-cid^="3432252-"] .badge-box .bdg,
+#user-rollover.id-3432252 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("http://giphygifs.s3.amazonaws.com/media/REgFJcnd2n21O/giphy.gif");
+}
 /* BGchat */
 .cm.message.deletable.id-3998944::before,
 .cm.message.id-3998944::before {
