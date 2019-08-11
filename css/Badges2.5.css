@@ -11,14 +11,14 @@
     background-position: center;
     background-image: url("https://raw.githack.com/brazilex/css/master/images/lampiao-badge.jpg");
 }
-/* -Death Gun */
-[data-cid^="27880115-"] .badge-box .bdg,
-#user-rollover.id-27880115 .badge-box .bdg {
+/* fløwer */
+[data-cid^="22517314-"] .badge-box .bdg,
+#user-rollover.id-22517314 .badge-box .bdg {
     border-radius: 5px;
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-image: url("https://rcs.radiant.dj/img/plugdj/badges/bdg-warriorb-e02.png");
+    background-image: url("https://media.giphy.com/media/xT9IgjHkJczyL3Ujle/giphy.gif");
 }
 /* Neon Genesis Evangelion */
 [data-cid^="25482766-"] .badge-box .bdg,
@@ -47,7 +47,15 @@
     background-position: center;
     background-image: url("https://raw.githack.com/brazilex/css/master/images/bdg-blexbot.png");
 }
-
+/* Lecin */
+[data-cid^="45697975-"] .badge-box .bdg,
+#user-rollover.id-45697975 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/605043899156791307/609422171068170260/Yugioh_3.gif");
+}
 
 /* BGchat */
 .cm.message.deletable.id-3998944::before,
