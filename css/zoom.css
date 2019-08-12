@@ -5,6 +5,7 @@
 #chat-messages .id-6507798 .badge-box:hover ,
 #chat-messages .id-25482766 .badge-box:hover ,
 #chat-messages .id-3432252 .badge-box:hover ,
+#chat-messages .id-3998944 .badge-box:hover ,
 #chat-messages .id-22517314 .badge-box:hover{ 
 	width: 65px; 
 	height: 65px; 
@@ -101,9 +102,9 @@
 	background-position: initial;
 }
 
-/* Neon Genesis Evangelion */ 
-#chat-messages .id-25482766 .badge-box i.bdg, .id-25482766 .no-badge i { 
-	background-image: url(https://media.discordapp.net/attachments/598251726352547860/598278023715880975/LJteYjG.gif); 
+/* !Special Agent Frosty */ 
+#chat-messages .id-3998944 .badge-box i.bdg, .id-3998944 .no-badge i { 
+	background-image: url(https://www.esmaelmorais.com.br/wp-content/uploads/2018/05/japones_federal.jpg); 
 	background-size: cover; 
 	width: 100%; 
 	height: 100%; 
