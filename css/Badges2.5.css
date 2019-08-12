@@ -20,14 +20,14 @@
     background-position: center;
     background-image: url("https://media.giphy.com/media/xT9IgjHkJczyL3Ujle/giphy.gif");
 }
-/* Neon Genesis Evangelion */
-[data-cid^="25482766-"] .badge-box .bdg,
-#user-rollover.id-25482766 .badge-box .bdg {
+/* !Special Agent Frosty */
+[data-cid^="3998944-"] .badge-box .bdg,
+#user-rollover.id-3998944 .badge-box .bdg {
     border-radius: 5px;
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-image: url("https://media.discordapp.net/attachments/598251726352547860/598278023715880975/LJteYjG.gif");
+    background-image: url("https://www.esmaelmorais.com.br/wp-content/uploads/2018/05/japones_federal.jpg");
 }
 /* Neffesh */
 [data-cid^="6507798-"] .badge-box .bdg,
