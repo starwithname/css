@@ -80,15 +80,15 @@
 	height:146px!important
 }
 
-/*▲ ๖ۣۜDiana๖ۣۜSantos ▲*/
-#user-rollover.id-3619211 .meta:before {
+/*DATABASE*/
+#user-rollover.id-3926149 .meta:before {
     content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
     top: 120px;
     left: 110px;
     position: absolute;
 }
 
-#user-rollover.id-3619211 .meta:after{
+#user-rollover.id-3926149 .meta:after{
 	content:'Discord Membro';
 	white-space:pre-wrap;
 	color:#808691;
@@ -96,7 +96,7 @@
 	top:120px;
 	left:130px
 }
-#user-rollover.id-3619211 .meta{
+#user-rollover.id-3926149 .meta{
 	height:146px!important
 }
 
