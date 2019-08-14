@@ -406,15 +406,15 @@
 	height:146px!important
 }
 
-/*Neon Genesis Evangelion*/
-#user-rollover.id-25482766 .meta:before {
+/*Noir*/
+#user-rollover.id-27929333 .meta:before {
     content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
     top: 120px;
     left: 110px;
     position: absolute;
 }
 
-#user-rollover.id-25482766 .meta:after{
+#user-rollover.id-27929333 .meta:after{
 	content:'Discord Membro';
 	white-space:pre-wrap;
 	color:#808691;
@@ -422,7 +422,7 @@
 	top:120px;
 	left:130px
 }
-#user-rollover.id-25482766 .meta{
+#user-rollover.id-27929333 .meta{
 	height:146px!important
 }
 
