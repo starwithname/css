@@ -545,3 +545,23 @@
 #user-rollover.id-19460660 .meta{
 	height:146px!important
 }
+
+/*M.R-PICKLES*/
+#user-rollover.id-43191142 .meta:before {
+    content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
+    top: 120px;
+    left: 110px;
+    position: absolute;
+}
+
+#user-rollover.id-43191142 .meta:after{
+	content:'Discord Membro';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:120px;
+	left:130px
+}
+#user-rollover.id-43191142 .meta{
+	height:146px!important
+}
