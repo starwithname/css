@@ -65,6 +65,15 @@
     background-position: center;
     background-image: url("http://giphygifs.s3.amazonaws.com/media/REgFJcnd2n21O/giphy.gif");
 }
+/* Noir */
+[data-cid^="27929333-"] .badge-box .bdg,
+#user-rollover.id-27929333 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://em.wattpad.com/af9cf832f81636f396c88afe9377fc20004e8966/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6567636d366e38327451413932773d3d2d3732373139373236322e313561333461643230616561363765353630383433363338353837352e676966");
+}
 /* BGchat */
 .cm.message.deletable.id-3998944::before,
 .cm.message.id-3998944::before {
