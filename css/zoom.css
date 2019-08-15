@@ -6,6 +6,7 @@
 #chat-messages .id-25482766 .badge-box:hover ,
 #chat-messages .id-3432252 .badge-box:hover ,
 #chat-messages .id-3998944 .badge-box:hover ,
+#chat-messages .id-27929333 .badge-box:hover ,
 #chat-messages .id-22517314 .badge-box:hover{ 
 	width: 65px; 
 	height: 65px; 
@@ -105,6 +106,24 @@
 /* !Special Agent Frosty */ 
 #chat-messages .id-3998944 .badge-box i.bdg, .id-3998944 .no-badge i { 
 	background-image: url(https://www.esmaelmorais.com.br/wp-content/uploads/2018/05/japones_federal.jpg); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
+
+/* Noir */ 
+#chat-messages .id-27929333 .badge-box i.bdg, .id-27929333 .no-badge i { 
+	background-image: url(https://em.wattpad.com/af9cf832f81636f396c88afe9377fc20004e8966/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6567636d366e38327451413932773d3d2d3732373139373236322e313561333461643230616561363765353630383433363338353837352e676966); 
 	background-size: cover; 
 	width: 100%; 
 	height: 100%; 
