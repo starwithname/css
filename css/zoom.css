@@ -8,6 +8,7 @@
 #chat-messages .id-3998944 .badge-box:hover ,
 #chat-messages .id-27929333 .badge-box:hover ,
 #chat-messages .id-3430994 .badge-box:hover ,
+#chat-messages .id-7894112 .badge-box:hover ,
 #chat-messages .id-22517314 .badge-box:hover{ 
 	width: 65px; 
 	height: 65px; 
@@ -143,6 +144,24 @@
 /* Mumm-Rá */ 
 #chat-messages .id-3430994 .badge-box i.bdg, .id-3430994 .no-badge i { 
 	background-image: url(https://data.whicdn.com/images/296713888/original.gif); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
+
+/* garib */ 
+#chat-messages .id-7894112 .badge-box i.bdg, .id-7894112 .no-badge i { 
+	background-image: url(http://giphygifs.s3.amazonaws.com/media/10Q8xvt4dPgu40/giphy.gif); 
 	background-size: cover; 
 	width: 100%; 
 	height: 100%; 
