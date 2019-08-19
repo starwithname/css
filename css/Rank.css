@@ -1,12 +1,12 @@
-/*Neffesh*/
-#user-rollover.id-6507798 .meta:before {
+/*Volkan Sezer*/
+#user-rollover.id-11261222 .meta:before {
     content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
     top: 120px;
     left: 110px;
     position: absolute;
 }
 
-#user-rollover.id-6507798 .meta:after{
+#user-rollover.id-11261222 .meta:after{
 	content:'Discord Membro';
 	white-space:pre-wrap;
 	color:#808691;
@@ -14,7 +14,7 @@
 	top:120px;
 	left:130px
 }
-#user-rollover.id-6507798 .meta{
+#user-rollover.id-11261222 .meta{
 	height:146px!important
 }
 
@@ -265,15 +265,15 @@
 }
 
 
-/*Bloom*/
-#user-rollover.id-3148591 .meta:before {
+/*croww66*/
+#user-rollover.id-37770797 .meta:before {
     content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
     top: 140px;
     left: 110px;
     position: absolute;
 }
 
-#user-rollover.id-3148591 .meta:after{
+#user-rollover.id-37770797 .meta:after{
 	content:'Discord Membro';
 	white-space:pre-wrap;
 	color:#808691;
@@ -281,7 +281,7 @@
 	top:140px;
 	left:130px
 }
-#user-rollover.id-3148591 .meta{
+#user-rollover.id-37770797 .meta{
 	height:166px!important
 }
 
