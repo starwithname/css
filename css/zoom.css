@@ -9,6 +9,7 @@
 #chat-messages .id-27929333 .badge-box:hover ,
 #chat-messages .id-3430994 .badge-box:hover ,
 #chat-messages .id-7894112 .badge-box:hover ,
+#chat-messages .id-37770797 .badge-box:hover ,
 #chat-messages .id-22517314 .badge-box:hover{ 
 	width: 65px; 
 	height: 65px; 
@@ -179,6 +180,23 @@
 /* BlexBot */ 
 #chat-messages .id-29551770 .badge-box i.bdg, .id-29551770 .no-badge i { 
 	background-image: url(https://raw.githubusercontent.com/brazilex/css/master/images/bdg-blexbot.png); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
+/* crow66 */ 
+#chat-messages .id-37770797 .badge-box i.bdg, .id-37770797 .no-badge i { 
+	background-image: url(https://media.giphy.com/media/9SJasD8sxYvyUz9onS/giphy.gif); 
 	background-size: cover; 
 	width: 100%; 
 	height: 100%; 
