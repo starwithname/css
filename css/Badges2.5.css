@@ -92,3 +92,12 @@
     background-position: center;
     background-image: url("http://giphygifs.s3.amazonaws.com/media/10Q8xvt4dPgu40/giphy.gif");
 }
+/* crow66 */
+[data-cid^="37770797-"] .badge-box .bdg,
+#user-rollover.id-37770797 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.giphy.com/media/xT9IgjHkJczyL3Ujle/giphy.gif");
+}
