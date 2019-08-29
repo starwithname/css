@@ -83,15 +83,6 @@
     background-position: center;
     background-image: url("https://cdn.discordapp.com/attachments/573681511925153792/611662483912130580/received_835889273432590.gif");
 }
-/* garib */
-[data-cid^="7894112-"] .badge-box .bdg,
-#user-rollover.id-7894112 .badge-box .bdg {
-    border-radius: 5px;
-    background-size: cover;
-    background-repeat: repeat;
-    background-position: center;
-    background-image: url("http://giphygifs.s3.amazonaws.com/media/10Q8xvt4dPgu40/giphy.gif");
-}
 /* crow66 */
 [data-cid^="37770797-"] .badge-box .bdg,
 #user-rollover.id-37770797 .badge-box .bdg {
