@@ -120,15 +120,15 @@
 }
 
 
-/*Fake*/
-#user-rollover.id-33479737 .meta:before {
+/*software jr*/
+#user-rollover.id-35798437 .meta:before {
     content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
     top: 120px;
     left: 110px;
     position: absolute;
 }
 
-#user-rollover.id-33479737 .meta:after{
+#user-rollover.id-35798437 .meta:after{
 	content:'Discord Membro';
 	white-space:pre-wrap;
 	color:#808691;
@@ -136,7 +136,7 @@
 	top:120px;
 	left:130px
 }
-#user-rollover.id-33479737 .meta{
+#user-rollover.id-35798437 .meta{
 	height:146px!important
 }
 
