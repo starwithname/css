@@ -182,15 +182,15 @@
 }
 
 
-/*korogui*/
-#user-rollover.id-18919754 .meta:before {
+/*Kevão da Varsóvia*/
+#user-rollover.id-25273057 .meta:before {
     content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
     top: 120px;
     left: 110px;
     position: absolute;
 }
 
-#user-rollover.id-18919754 .meta:after{
+#user-rollover.id-25273057 .meta:after{
 	content:'Discord Membro';
 	white-space:pre-wrap;
 	color:#808691;
@@ -198,7 +198,7 @@
 	top:120px;
 	left:130px
 }
-#user-rollover.id-18919754 .meta{
+#user-rollover.id-25273057 .meta{
 	height:146px!important
 }
 
@@ -584,15 +584,15 @@
 	height:146px!important
 }
 
-/*Cashbox II*/
-#user-rollover.id-4710876 .meta:before {
+/*old-user2012*/
+#user-rollover.id-45592874 .meta:before {
     content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
     top: 120px;
     left: 110px;
     position: absolute;
 }
 
-#user-rollover.id-4710876 .meta:after{
+#user-rollover.id-45592874 .meta:after{
 	content:'Discord Membro';
 	white-space:pre-wrap;
 	color:#808691;
@@ -600,7 +600,7 @@
 	top:120px;
 	left:130px
 }
-#user-rollover.id-4710876 .meta{
+#user-rollover.id-45592874 .meta{
 	height:146px!important
 }
 
