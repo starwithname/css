@@ -663,3 +663,23 @@
 #user-rollover.id-4725859 .meta{
 	height:146px!important
 }
+
+/*Axzy*/
+#user-rollover.id-15593328 .meta:before {
+    content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
+    top: 120px;
+    left: 110px;
+    position: absolute;
+}
+
+#user-rollover.id-15593328 .meta:after{
+	content:'Discord Membro';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:120px;
+	left:130px
+}
+#user-rollover.id-15593328 .meta{
+	height:146px!important
+}
