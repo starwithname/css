@@ -564,15 +564,15 @@
 	height:146px!important
 }
 
-/*Aelfy*/
-#user-rollover.id-5579813 .meta:before {
+/*Koaalex*/
+#user-rollover.id-30311284 .meta:before {
     content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
     top: 120px;
     left: 110px;
     position: absolute;
 }
 
-#user-rollover.id-5579813 .meta:after{
+#user-rollover.id-30311284 .meta:after{
 	content:'Discord Membro';
 	white-space:pre-wrap;
 	color:#808691;
@@ -580,7 +580,7 @@
 	top:120px;
 	left:130px
 }
-#user-rollover.id-5579813 .meta{
+#user-rollover.id-30311284 .meta{
 	height:146px!important
 }
 
@@ -701,23 +701,4 @@
 }
 #user-rollover.id-5180391 .meta{
 	height:146px!important
-}
-/ * Koaalex * /
-# user-rollover .id-30311284  .meta : antes de {
-    conteúdo : url ( https://raw.githack.com/brazilex/css/master/images/discord.png );
-    superior : 120 px ;
-    esquerda : 110 px ;
-    posição : absoluta ;
-}
-
-# user-rollover .id-30311284  .meta : depois de {
-	conteúdo : ' Discord Membro ' ;
-	espaço em branco : pré-embrulhar ;
-	cor : # 808691 ;
-	posição : absoluta ;
-	superior : 120 px ;
-	esquerda : 130 px
-}
-# rollover do usuário .id-30311284  .meta {
-	altura : 146 px ! important
 }
