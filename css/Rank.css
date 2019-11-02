@@ -702,3 +702,22 @@
 #user-rollover.id-5180391 .meta{
 	height:146px!important
 }
+/ * Koaalex * /
+# user-rollover.id-30311284  .meta : antes de {
+    conteúdo : url ( https://raw.githack.com/brazilex/css/master/images/discord.png );
+    superior : 120 px ;
+    esquerda : 110 px ;
+    posição : absoluta ;
+}
+
+# user-rollover.id-30311284  .meta : depois de {
+	conteúdo : ' Discord Membro ' ;
+	espaço em branco : pré-embrulhar ;
+	cor : # 808691 ;
+	posição : absoluta ;
+	superior : 120 px ;
+	esquerda : 130 px
+}
+# rollover do usuário.id-30311284  .meta {
+	altura : 146 px ! important
+}
