@@ -2,7 +2,7 @@
 #chat .badge-box i, .right-side-wrapper #chat .badge-box .icon-arrow-down {
     transform: scale(1) !important;}
 
-/* Lampião */
+/* Burkyst */
 [data-cid^="20574971-"] .badge-box .bdg,
 #user-rollover.id-20574971 .badge-box .bdg {
     border-radius: 5px;
@@ -91,4 +91,22 @@
     background-repeat: repeat;
     background-position: center;
     background-image: url("https://media.giphy.com/media/9SJasD8sxYvyUz9onS/giphy.gif");
+}
+/* -Dashing Love */
+[data-cid^="4925119-"] .badge-box .bdg,
+#user-rollover.id-4925119 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.discordapp.net/attachments/642459117679673345/642459686922354719/Ozil_-_ironico_20190322_115259.jpg");
+}
+/* Axzy */
+[data-cid^="15593328-"] .badge-box .bdg,
+#user-rollover.id-15593328 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.discordapp.net/attachments/637696239089090582/642458910405689373/picture_discord.jpg");
 }
