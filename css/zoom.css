@@ -9,6 +9,8 @@
 #chat-messages .id-27929333 .badge-box:hover ,
 #chat-messages .id-3430994 .badge-box:hover ,
 #chat-messages .id-37770797 .badge-box:hover ,
+#chat-messages .id-4925119 .badge-box:hover ,
+#chat-messages .id-15593328 .badge-box:hover ,
 #chat-messages .id-22517314 .badge-box:hover{ 
 	width: 65px; 
 	height: 65px; 
@@ -179,6 +181,40 @@
 /* crow66 */ 
 #chat-messages .id-37770797 .badge-box i.bdg, .id-37770797 .no-badge i { 
 	background-image: url(https://media.giphy.com/media/9SJasD8sxYvyUz9onS/giphy.gif); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
+/* -Dashing Love */ 
+#chat-messages .id-4925119 .badge-box i.bdg, .id-4925119 .no-badge i { 
+	background-image: url(https://media.discordapp.net/attachments/642459117679673345/642459686922354719/Ozil_-_ironico_20190322_115259.jpg); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
+/* Axzy */ 
+#chat-messages .id-15593328 .badge-box i.bdg, .id-15593328 .no-badge i { 
+	background-image: url(https://media.discordapp.net/attachments/637696239089090582/642458910405689373/picture_discord.jpg); 
 	background-size: cover; 
 	width: 100%; 
 	height: 100%; 
