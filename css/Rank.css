@@ -881,3 +881,23 @@
 #user-rollover.id-23897089 .meta{
 	height:146px!important
 }
+
+/*DRAPZINN*/
+#user-rollover.id-1275867 .meta:before {
+    content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
+    top: 120px;
+    left: 110px;
+    position: absolute;
+}
+
+#user-rollover.id-1275867 .meta:after{
+	content:'Discord Membro';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:120px;
+	left:130px
+}
+#user-rollover.id-1275867 .meta{
+	height:146px!important
+}
