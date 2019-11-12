@@ -108,5 +108,14 @@
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-image: url("https://media.discordapp.net/attachments/637696239089090582/642458910405689373/picture_discord.jpg");
+    background-image: url("https://media.discordapp.net/attachments/637696239089090582/643139206776094735/badge_plug.dj.gif");
+}
+/* LoboMaki */
+[data-cid^="15593328-"] .badge-box .bdg,
+#user-rollover.id-15593328 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https//i.imgur.com/a50HT5o.mp4");
 }
