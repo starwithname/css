@@ -119,3 +119,12 @@
     background-position: center;
     background-image: url("https://i.imgur.com/z6G7Wx8.gif");
 }
+/* Yang */
+[data-cid^="18109608-"] .badge-box .bdg,
+#user-rollover.id-18109608 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://imgur.com/0Ks3Oik.gif);
+}
