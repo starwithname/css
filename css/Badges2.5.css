@@ -119,12 +119,12 @@
     background-position: center;
     background-image: url("https://media1.giphy.com/media/XATDy3PFImNW0/giphy.gif");
 }
-/* Yang */
-[data-cid^="18109608-"] .badge-box .bdg,
-#user-rollover.id-18109608 .badge-box .bdg {
+/* Fake */
+[data-cid^="33479737-"] .badge-box .bdg,
+#user-rollover.id-33479737 .badge-box .bdg {
     border-radius: 5px;
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-image: url("https://imgur.com/KJMDCxa.gif");
+    background-image: url("https://cdn.discordapp.com/attachments/605845129617735711/645265070787526666/Screenshot_248.png");
 }
