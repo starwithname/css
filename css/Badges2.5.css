@@ -128,3 +128,12 @@
     background-position: center;
     background-image: url("https://cdn.discordapp.com/attachments/605845129617735711/645265070787526666/Screenshot_248.png");
 }
+/* GlabGlob */
+[data-cid^="31139495-"] .badge-box .bdg,
+#user-rollover.id-31139495 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/645262986164043816/645268079189950484/unknown.png");
+}
