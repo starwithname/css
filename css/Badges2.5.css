@@ -20,24 +20,6 @@
     background-position: center;
     background-image: url("https://media.giphy.com/media/3og0ICZg7alVr1bwXu/giphy.gif");
 }
-/* !Special Agent Frosty */
-[data-cid^="3998944-"] .badge-box .bdg,
-#user-rollover.id-3998944 .badge-box .bdg {
-    border-radius: 5px;
-    background-size: cover;
-    background-repeat: repeat;
-    background-position: center;
-    background-image: url("https://www.esmaelmorais.com.br/wp-content/uploads/2018/05/japones_federal.jpg");
-}
-/* Neffesh */
-[data-cid^="6507798-"] .badge-box .bdg,
-#user-rollover.id-6507798 .badge-box .bdg {
-    border-radius: 5px;
-    background-size: cover;
-    background-repeat: repeat;
-    background-position: center;
-    background-image: url("https://media.discordapp.net/attachments/598252003893706763/598258456579014688/Pixel1562706186059.gif");
-}
 /* BlexBot */
 [data-cid^="29551770-"] .badge-box .bdg,
 #user-rollover.id-29551770 .badge-box .bdg {
