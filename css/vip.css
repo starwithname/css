@@ -18,18 +18,7 @@
 #user-rollover.id-22517314 .meta{
 	height:176px!important
 }
-
-/* imagem no chat */
-[data-cid^="22517314"] .msg .from .un {
-position: relative;
-padding-left: 20px;
-background-image: url("https://imgur.com/uDDtvvd.png");
-background-repeat: no-repeat;
-background-position: 0px center;
-background-size: 16px auto;
-left: 0px;
-} 		
-
+ 		
 /* Burkyst */
 #user-rollover.id-20574971 .meta:before{
     content:url(https://imgur.com/qAEweES.png);
