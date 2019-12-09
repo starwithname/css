@@ -128,3 +128,12 @@
     background-position: center;
     background-image: url("https://cdn.discordapp.com/attachments/643801212403187732/649687585047838740/original.gif");
 }
+/* darkwavebitch*/
+[data-cid^="46444508-"] .badge-box .bdg,
+#user-rollover.id-46444508 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://66.media.tumblr.com/0bece0df33dc6518e2323010d803f860/tumblr_pgup2wMA5V1vtil9ko2_500.gif");
+}
