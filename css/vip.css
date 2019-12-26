@@ -82,35 +82,7 @@ background-position: 0px center;
 background-size: 16px auto;
 left: 0px;
 }
-
-/* 𝑳𝑶𝑩𝑶 𝑴𝑨𝑲𝑰 */
-#user-rollover.id-47024210 .meta:before{
-	content:url(https://imgur.com/qAEweES.png);
-	top:138px;
-	left:109px;
-	position:absolute
-}
-#user-rollover.id-47024210 .meta:after{
-	content:'Discord Membro\A Membro VIP';
-	white-space:pre-wrap;
-	color:#808691;
-        font-size: 14px;
-	position:absolute;
-	top:135px;
-	left:130px
-}
-
-/* imagem no chat */
-[data-cid^="47024210"] .msg .from .un {
-position: relative;
-padding-left: 20px;
-background-image: url("https://imgur.com/uDDtvvd.png");
-background-repeat: no-repeat;
-background-position: 0px center;
-background-size: 16px auto;
-left: 0px;
-} 		
-
+	
 /* Axzy */
 #user-rollover.id-15593328 .meta:before{
     content:url(https://imgur.com/qAEweES.png);
