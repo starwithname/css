@@ -83,15 +83,6 @@
     background-position: center;
     background-image: url("https://media.discordapp.net/attachments/637696239089090582/643138301938761738/badge_plug.dj.gif");
 }
-/* LoboMaki */
-[data-cid^="47024210-"] .badge-box .bdg,
-#user-rollover.id-47024210 .badge-box .bdg {
-    border-radius: 5px;
-    background-size: cover;
-    background-repeat: repeat;
-    background-position: center;
-    background-image: url("https://media.discordapp.net/attachments/643611007624675328/658809716851474452/45445gg.png");
-}
 /* Fake */
 [data-cid^="33479737-"] .badge-box .bdg,
 #user-rollover.id-33479737 .badge-box .bdg {
