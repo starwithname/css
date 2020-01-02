@@ -2,7 +2,7 @@
     "room": "Brazil-Lounge-Exclusive",
     "author": "Equipe Blex",
     "icon": null,
-    "css": "https://raw.githack.com/brazilex/css/master/style.css",
+    "css": "https://raw.githack.com/starwithname/css/master/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
