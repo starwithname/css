@@ -38,7 +38,7 @@
     background-repeat: no-repeat !important;
     background-size: 1600px 900px !important;
     max-height: 920px !important;
-    background-image: url(https://raw.githack.com/brazilex/css/master/images/bg.jpg) !important;
+    background-image: url(https://raw.githack.com/starwithname/css/master/images/bg.jpg) !important;
 }
 @media (min-width: 576px) {
     .community__right-bar,
